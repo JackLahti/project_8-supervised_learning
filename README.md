@@ -1,7 +1,7 @@
 TRIPLE TEN - PROJECT 8: Supervised Learning Project
 
 DESCRIPTION:
-- Import the provided user_behavior data
+- Import the provided churn data
 - Edit the data to be analyzed
 - Analyze different models of Logistic Regression and Decision Tree Classifier to compare the results of Class Balancing
 
